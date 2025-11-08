@@ -1,0 +1,10 @@
+#root {
+  margin: 0 auto;
+  min-height: 100vh;
+  background: #f5f5f5;
+}
+
+.red {
+  color: red;
+  text-decoration: underline;
+}
