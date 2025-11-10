@@ -8,7 +8,7 @@ export default function Bird() {
     <>
       <h2>Fav Bird: <strong>{bird}</strong></h2>
       <button 
-        onClick={() => setBird("Eagle 🦅")} 
+        onClick={() => setBird("Eagle")} 
         className="p-2 bg-blue-500 text-white rounded-md mt-2">Change Bird
       </button>
     </>
